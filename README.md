@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anthony, an <a href="https://www.linkedin.com/in/anthony-tam-75482722b/">an aspiring IT specialist</a>☺</h1>
+<h1>Hi, I'm Anthony, an <a href="https://www.linkedin.com/in/anthony-tam-75482722b/">Aspiring IT Specialist</a>☺</h1>
 
 <h2> Information Technology Projects:</h2>
 
