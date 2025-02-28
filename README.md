@@ -5,8 +5,8 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/anthonytam13/osticket)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/anthonytam13/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/anthonytam13/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/anthonytam13/active-directory)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/anthonytam13/anetwork-protocols)
 
 <h2>Connect with me:</h2>
 
